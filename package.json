@@ -4,5 +4,8 @@
   "description": "Fleet-migration sandbox for Forge",
   "dependencies": {
     "fast-glob": "^3.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
   }
 }
