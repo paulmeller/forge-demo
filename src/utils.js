@@ -1,9 +1,7 @@
 // Utility functions for forge-demo
 
-const unusedVariable = 42;
-
 function greet(name) {
-  return "Hello, " + nme + "!";
+  return "Hello, " + name + "!";
 }
 
 module.exports = { greet };
